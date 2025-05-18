@@ -17,7 +17,6 @@ A simple and intuitive React app that calculates your Basal Metabolic Rate (BMR)
 ## Demo
 
 ![Screenshot](./screenshot.png)  
-*(Add a screenshot here to showcase your app)*
 
 ---
 
